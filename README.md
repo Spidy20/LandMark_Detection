@@ -4,7 +4,7 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 ## [Watch Tutorial for this project]()
-<img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/yt_thumb.jpg">
+<img src="https://github.com/Spidy20/LandMark_Detection/blob/master/yt_thumb.jpg">
 
 ## Source
 - Trained model [`landmarks_classifier_asia_V1/1`](https://tfhub.dev/google/on_device_vision/classifier/landmarks_classifier_asia_V1/1) is taken from the Tensorflow-Hub
@@ -37,8 +37,8 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/t1.png">
-<img src="https://github.com/Spidy20/Text_to_Handwritten_Text_Converter/blob/master/t2.PNG">
+<img src="https://github.com/Spidy20/LandMark_Detection/blob/master/s1.PNG">
+<img src="https://github.com/Spidy20/LandMark_Detection/blob/master/s2.PNG">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
